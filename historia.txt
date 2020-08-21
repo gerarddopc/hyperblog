@@ -29,3 +29,10 @@ capitulo 70
 cap 1
 cap 2
 cap 3
+
+habitos:
+autoEducarte
+ahorrar
+invertir
+deporte o ejercicio
+comer saudable
