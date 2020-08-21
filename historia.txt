@@ -17,3 +17,5 @@ mide 1 metro 75
 tiene 5 mouse 
 
 encuentra 3 casacas en el ropero
+
+cambio 10
