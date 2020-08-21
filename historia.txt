@@ -24,3 +24,6 @@ capitulo 30
 capitulo 40
 capitulo 50
 capitulo 70
+cap 1
+cap 2
+cap 3
