@@ -22,3 +22,5 @@ cambio 10
 capitulo 20
 capitulo 30
 capitulo 40
+capitulo 50
+capitulo 70
